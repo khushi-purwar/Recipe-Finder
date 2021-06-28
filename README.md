@@ -29,7 +29,7 @@ Edamam Recipe Search API
 
 Link : https://www.edamam.com/
 
-# How It Works
+### How It Works
 
 - Search a recipe in the search input
 - Grabs the recipe information from Edamam API.
