@@ -1,4 +1,4 @@
-# Recipe Finder - React Application
+# Recipe Finder - React Application   :peach: :ramen: :fork_and_knife: :cherries: :pizza: :green_apple:
 
 ### About the Project
 A single page web application that allows users to search recipes based on their query.
