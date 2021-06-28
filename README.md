@@ -5,4 +5,5 @@ https://khushi-purwar.github.io/Recipe-Finder/
 
 ### API Used
 Edamam Recipe Search API
+
 Link : https://www.edamam.com/
