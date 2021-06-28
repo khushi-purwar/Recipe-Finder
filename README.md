@@ -3,8 +3,8 @@
 ### About the Project
 A single page web application that allows users to search recipes based on their query.
 
-### Demo - Deployed over Github Pages 
-https://khushi-purwar.github.io/Recipe-Finder/
+### :star: Demo :star: - Deployed over Github Pages 
+To view this app live, visit https://khushi-purwar.github.io/Recipe-Finder/
 
 ### Technologies
 
@@ -16,6 +16,8 @@ https://khushi-purwar.github.io/Recipe-Finder/
 - Javascript
   - Fetch API
   - ES6
+- API
+  - Edamam API
 
 ### Libraries Used
 
