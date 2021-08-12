@@ -24,7 +24,6 @@ To view this app live, visit https://khushi-purwar.github.io/Recipe-Finder/
 * `styled-components`
 * `axios`
 * `react-scripts`
-* `material-ui`
 
 ### API Used
 Edamam Recipe Search API
